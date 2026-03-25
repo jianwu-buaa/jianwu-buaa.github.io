@@ -1,0 +1,17 @@
+<!-- index.qmd -->
+---
+title: "Home"
+---
+
+# 你的姓名
+
+你的单位  
+Email: your_email@xxx.com
+
+## About Me
+这里写你的个人简介（100-150字）。
+
+## Research Interests
+- 方向 1
+- 方向 2
+- 方向 3

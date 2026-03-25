@@ -1,0 +1,20 @@
+# _quarto.yml
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "你的姓名"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    toc: true

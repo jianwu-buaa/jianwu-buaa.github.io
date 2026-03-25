@@ -1,0 +1,9 @@
+<!-- publications.qmd -->
+---
+title: "Publications"
+---
+
+# Publications
+
+1. Author, **Paper Title**, Venue, 2025. [PDF](链接) | [Code](链接)
+2. Author, **Paper Title**, Venue, 2024. [PDF](链接)

@@ -1,0 +1,8 @@
+<!-- cv.qmd -->
+---
+title: "CV"
+---
+
+# CV
+
+[Download CV (PDF)](CV.pdf)

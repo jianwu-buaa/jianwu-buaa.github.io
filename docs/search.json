@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "publications.html#title-publications",
+    "href": "publications.html#title-publications",
+    "title": "Publications",
+    "section": "title: “Publications”",
+    "text": "title: “Publications”"
+  },
+  {
+    "objectID": "cv.html#title-cv",
+    "href": "cv.html#title-cv",
+    "title": "CV",
+    "section": "title: “CV”",
+    "text": "title: “CV”"
+  },
+  {
+    "objectID": "index.html#title-home",
+    "href": "index.html#title-home",
+    "title": "Home",
+    "section": "title: “Home”",
+    "text": "title: “Home”"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "About Me",
+    "text": "About Me\n这里写你的个人简介（100-150字）。"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Home",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n方向 1\n方向 2\n方向 3"
+  }
+]

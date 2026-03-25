@@ -26,7 +26,7 @@ about:
 
 ::: {#hero-heading}
 
-I am a researcher at Beihang University (BUAA), working on virtual reality (VR), mixed reality (MR), and human-computer interaction (HCI). My recent work focuses on efficient interaction, foveated rendering, scene-aware methods, and AI for immersive environments.
+Dr. Jian Wu is an assistant researcher at the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, and received his Ph.D. from Beihang University in 2024. His research interests include extended reality (XR) immersive interaction and real-time graphics rendering. He has published over 30 papers in top conferences and journals such as IJHCS, IJHCI, IEEE TVCG, VR, and ISMAR, and received a Best Paper nomination at IEEE VR 2025 and the Best Student Journal Paper Award at IEEE ISMAR 2024.
 
 ## Research Interests
 
@@ -56,6 +56,6 @@ School of Mechanical Engineering and Automation, Beihang University, Beijing, Ch
 ## Professional Experience
 
 2024 – Present: Assistant Researcher
-School of Computer Science and Engineering, Beihang University, Beijing, China
+State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, Beijing, China
 
 :::

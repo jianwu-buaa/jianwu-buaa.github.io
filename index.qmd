@@ -24,6 +24,6 @@ I am a researcher at Beihang University (BUAA), working on virtual reality (VR),
 
 ## Contact
 
-- Email: your_email@buaa.edu.cn
+- Email: lanayawj@buaa.edu.cn
 - GitHub: https://github.com/JianWu2025
 - Google Scholar: https://scholar.google.com/

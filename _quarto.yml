@@ -10,8 +10,8 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
-      - href: cv.qmd
-        text: CV
+      # - href: cv.qmd
+      #   text: CV
 
 format:
   html:

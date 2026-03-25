@@ -1,10 +1,30 @@
 ---
-title: "Home"
+title: "Jian Wu"
+image: assets/avatar/jian-wu.png
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: lanayawj@buaa.edu.cn
+      href: mailto:lanayawj@buaa.edu.cn
+    - icon: github
+      text: JianWu
+      href: https://github.com/jianwu-buaa
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com
+    - icon: fingerprint
+      text: ORCID
+      href: https://orcid.org/0000-0002-3863-8814
+#    - icon: 📝
+#      text: CV
+#      href: CV.pdf  
 ---
 
-# Jian Wu
-
-Beihang University (BUAA)
+::: {#hero-heading}
 
 I am a researcher at Beihang University (BUAA), working on virtual reality (VR), mixed reality (MR), and human-computer interaction (HCI). My recent work focuses on efficient interaction, foveated rendering, scene-aware methods, and AI for immersive environments.
 
@@ -22,8 +42,20 @@ I am a researcher at Beihang University (BUAA), working on virtual reality (VR),
 - VR 2025 Best Paper Honorable Mention (Fov-GS)
 - ISMAR 2024 Best Student Journal Paper (VPRF)
 
-## Contact
+## Education
 
-- Email: lanayawj@buaa.edu.cn
-- GitHub: https://github.com/JianWu2025
-- Google Scholar: https://scholar.google.com/
+2018 – 2024: Ph.D. in Computer Application Technology
+School of Computer Science and Engineering, Beihang University, Beijing, China
+
+2015 – 2018: M.S. in Mechanical Engineering (Major in Mechanical Design)
+School of Mechanical Engineering and Automation, Beihang University, Beijing, China
+
+2011 – 2015: B.E. in Mechanical Engineering and Automation
+School of Mechanical Engineering and Automation, Beihang University, Beijing, China
+
+## Professional Experience
+
+2024 – Present: Assistant Researcher
+School of Computer Science and Engineering, Beihang University, Beijing, China
+
+:::

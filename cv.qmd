@@ -3,6 +3,6 @@
 title: "CV"
 ---
 
-# CV
+# Curriculum Vitae
 
 [Download CV (PDF)](CV.pdf)

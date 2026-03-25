@@ -1,10 +1,9 @@
-# _quarto.yml
 project:
   type: website
   output-dir: docs
 
 website:
-  title: "你的姓名"
+  title: "Jian Wu"
   navbar:
     left:
       - href: index.qmd
@@ -18,3 +17,4 @@ format:
   html:
     theme: cosmo
     toc: true
+    smooth-scroll: true

@@ -1,17 +1,29 @@
-<!-- index.qmd -->
 ---
 title: "Home"
 ---
 
-# 你的姓名
+# Jian Wu
 
-你的单位  
-Email: your_email@xxx.com
+Beihang University (BUAA)
 
-## About Me
-这里写你的个人简介（100-150字）。
+I am a researcher at Beihang University (BUAA), working on virtual reality (VR), mixed reality (MR), and human-computer interaction (HCI). My recent work focuses on efficient interaction, foveated rendering, scene-aware methods, and AI for immersive environments.
 
 ## Research Interests
-- 方向 1
-- 方向 2
-- 方向 3
+
+- VR/AR interaction techniques and user perception
+- Foveated rendering and neural scene representation
+- Scene-aware layout, navigation, and object arrangement in immersive environments
+- Haptic retargeting and multimodal interaction in VR
+
+## Highlights
+
+- International Journal of Human-Computer Studies, 2026
+- IEEE TVCG / IEEE VR / IEEE ISMAR publications
+- VR 2025 Best Paper Honorable Mention (Fov-GS)
+- ISMAR 2024 Best Student Journal Paper (VPRF)
+
+## Contact
+
+- Email: your_email@buaa.edu.cn
+- GitHub: https://github.com/JianWu2025
+- Google Scholar: https://scholar.google.com/

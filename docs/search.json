@@ -14,24 +14,31 @@
     "text": "title: “CV”"
   },
   {
-    "objectID": "index.html#title-home",
-    "href": "index.html#title-home",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Home",
-    "section": "title: “Home”",
-    "text": "title: “Home”"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Home",
-    "section": "About Me",
-    "text": "About Me\n这里写你的个人简介（100-150字）。"
+    "section": "",
+    "text": "Beihang University (BUAA)\nI am a researcher at Beihang University (BUAA), working on virtual reality (VR), mixed reality (MR), and human-computer interaction (HCI). My recent work focuses on efficient interaction, foveated rendering, scene-aware methods, and AI for immersive environments.\n\n\n\nVR/AR interaction techniques and user perception\nFoveated rendering and neural scene representation\nScene-aware layout, navigation, and object arrangement in immersive environments\nHaptic retargeting and multimodal interaction in VR\n\n\n\n\n\nInternational Journal of Human-Computer Studies, 2026\nIEEE TVCG / IEEE VR / IEEE ISMAR publications\nVR 2025 Best Paper Honorable Mention (Fov-GS)\nISMAR 2024 Best Student Journal Paper (VPRF)\n\n\n\n\n\nEmail: your_email@buaa.edu.cn\nGitHub: https://github.com/JianWu2025\nGoogle Scholar: https://scholar.google.com/"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Home",
-    "section": "Research Interests",
-    "text": "Research Interests\n\n方向 1\n方向 2\n方向 3"
+    "section": "",
+    "text": "VR/AR interaction techniques and user perception\nFoveated rendering and neural scene representation\nScene-aware layout, navigation, and object arrangement in immersive environments\nHaptic retargeting and multimodal interaction in VR"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Home",
+    "section": "",
+    "text": "International Journal of Human-Computer Studies, 2026\nIEEE TVCG / IEEE VR / IEEE ISMAR publications\nVR 2025 Best Paper Honorable Mention (Fov-GS)\nISMAR 2024 Best Student Journal Paper (VPRF)"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "Email: your_email@buaa.edu.cn\nGitHub: https://github.com/JianWu2025\nGoogle Scholar: https://scholar.google.com/"
   }
 ]

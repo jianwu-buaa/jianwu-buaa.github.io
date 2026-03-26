@@ -11,6 +11,8 @@ css: custom.css
 
 `*` indicates corresponding author.
 
+## 2026
+
 <hr style="width:90%">
 
 **Jian Wu**, Shuai Luan, Dong Zhou, Wei Ke, Lili Wang\*. 2026. **User perception based label layout for efficient target localization in virtual environment**. *International Journal of Human-Computer Studies*, Volume 211, April 2026, 103801. full-text [pdf](assets/papers/2026-user-perception-label-layout.pdf)
@@ -30,6 +32,8 @@ Runze Fan, **Jian Wu**, Qixiang Ma, Zhikai Wen, Lili Wang\*. **Motion Hierarchic
 <hr style="width:90%">
 
 Lili Wang, Weiwei Xu, Yebin Liu, Miao Wang, Beibei Wang, Xubo Yang, Lan Xu, Zhangyao Tan, Runze Fan, Zijun Wang, Chi Wang, Hongwen Zhang, Yijian Wen, Haozhong Yang, **Jian Wu\***, Jiahui Fan, Hui Wang, Qixuan Zhang, Guoping Wang, Yongtian Wang, Qinping Zhao. **Artificial intelligence for virtual reality: a review**. *Science China Information Sciences*, 69(1), 1-64. full-text [pdf](assets/papers/artificial-intelligence-for-virtual-reality-review.pdf)
+
+## 2025
 
 <hr style="width:90%">
 
@@ -66,6 +70,12 @@ Runze Fan, **Jian Wu**, Xuehuai Shi, Lizhi Zhao, Qixiang Ma, Lili Wang\*. 2025. 
 <hr style="width:90%">
 
 **Jian Wu**, Weicheng Zhang, Handong Chen, Wei Lin, Xuehuai Shi, Lili Wang\*. 2025. **PwP: Permutating with Probability for Efficient Group Selection in VR**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 31(5), 2384-2394. Also presented at *IEEE VR*. full-text [pdf](assets/papers/2025-pwp-permutating-with-probability.pdf)
+
+## 2024
+
+<hr style="width:90%">
+
+Qixiang Ma, **Jian Wu**\*, Runze Fan, Guodong Sun, Xuehuai Shi. **ViP-Fluid: Visual Perception Driven Method for VR Fluid Rendering**. *2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bellevue, WA, USA, 2024, pp. 359-367. full-text [pdf](assets/papers/Vip-Fluid.pdf)
 
 <hr style="width:90%">
 
@@ -111,6 +121,8 @@ Xiaolong Liu, Lili Wang\*, Yi Liu, **Jian Wu**. **Automatic portals layout for V
 
 **Jian Wu**, Lili Wang\*. **Panoramic Ray Tracing for Interactive Mixed Reality Rendering Based on 360 RGBD Video**. *IEEE Computer Graphics and Applications (IEEE CG&A)*. full-text [pdf](assets/papers/panoramic-ray-tracing-interactive-mr.pdf)
 
+## Before 2024
+
 <hr style="width:90%">
 
 **Jian Wu**, Lili Wang\*, Wei Ke. **Interactive Panoramic Ray Tracing for Mixed 360 RGBD Videos**. *IEEE VRW*, 777-778. full-text [pdf](assets/papers/interactive-panoramic-ray-tracing-mixed-rgbd.pdf)
@@ -133,7 +145,7 @@ Lili Wang\*, Yi Liu, Xiaolong Liu, **Jian Wu**. 2021. **Automatic Virtual Portal
 
 <hr style="width:90%">
 
-**Jian Wu**, Lili Wang\*, Hui Zhang, Voicu Popescu. 2021. **Quantifiable Fine-Grain Occlusion Removal Assistance for Efficient VR Exploration**. *IEEE Transactions on Visualization and Computer Graphics*, 28(9), 3154-3167. full-text [pdf](assets/papers/2021-quantifiable-fine-grain-occlusion-removal.pdf)
+**Jian Wu**, Lili Wang\*, Hui Zhang, Voicu Popescu. 2022. **Quantifiable Fine-Grain Occlusion Removal Assistance for Efficient VR Exploration**. *IEEE Transactions on Visualization and Computer Graphics*, 28(9), 3154-3167. full-text [pdf](assets/papers/2022-quantifiable-fine-grain-occlusion-removal.pdf)
 
 <hr style="width:90%">
 

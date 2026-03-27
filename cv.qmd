@@ -1,7 +1,4 @@
 <!-- cv.qmd -->
----
-title: "CV"
----
 
 # Curriculum Vitae
 

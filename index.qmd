@@ -6,6 +6,10 @@ about:
   template: trestles
   image-width: 12em
   image-shape: rectangle
+#  Afflicate:
+#  [State Key Laboratory of Virtual Reality Technology and Systems](http://vrlab.buaa.edu.cn)
+#  [School of Computer Science and Engineering](http://scse.buaa.edu.cn/index.htm)
+#  [Beihang University](https://www.buaa.edu.cn)
   links:
     - icon: mailbox
       text: lanayawj@buaa.edu.cn
@@ -19,9 +23,9 @@ about:
     - icon: fingerprint
       text: ORCID
       href: https://orcid.org/0000-0002-3863-8814
-#    - icon: 📝
-#      text: CV
-#      href: CV.pdf  
+    - icon: 📝
+      text: CV
+      href: CV.pdf  
 ---
 
 ::: {#hero-heading}

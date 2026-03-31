@@ -11,600 +11,560 @@ css: custom.css
 
 `*` indicates corresponding author.
 
-## 2026
 
-<hr style="width:90%">
-
-**Jian Wu**, Shuai Luan, Dong Zhou, Wei Ke, Lili Wang\*. 2026. **User perception based label layout for efficient target localization in virtual environment**. *International Journal of Human-Computer Studies*, Volume 211, April 2026, 103801. full-text [pdf](assets/papers/2026-user-perception-label-layout.pdf)
-
-<hr style="width:90%">
-
-**Jian Wu**, Ziteng Wang, Runze Fan, Qixiang Ma, Lizhi Zhao, Xuehuai Shi, Lili Wang\*. **Align-Box: Enable Fast Bare-Hand Multi-Object Alignment in VR**. *International Journal of Human-Computer Interaction*. full-text [pdf](assets/papers/align-box.pdf)
-
-<hr style="width:90%">
-
-**Jian Wu**, Lili Wang\*, Zhikai Wen, Yanzhou Chen, Qianwen Wang, Bin Hu, Xuehuai Shi, Xiaolong Liu. **Automatic Formation Generation based on Scene Awareness for Guided Group Navigation in VR**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*. full-text [pdf](assets/papers/automatic-formation-generation-scene-awareness.pdf)
-
-<hr style="width:90%">
-
-Runze Fan, **Jian Wu**, Qixiang Ma, Zhikai Wen, Lili Wang\*. **Motion Hierarchical Gaussian for Dynamic Control in VR**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*. Also presented at *IEEE VR*. full-text [pdf](assets/papers/motion-hierarchical-gaussian.pdf)
-
-<hr style="width:90%">
-
-Lili Wang, Weiwei Xu, Yebin Liu, Miao Wang, Beibei Wang, Xubo Yang, Lan Xu, Zhangyao Tan, Runze Fan, Zijun Wang, Chi Wang, Hongwen Zhang, Yijian Wen, Haozhong Yang, **Jian Wu\***, Jiahui Fan, Hui Wang, Qixuan Zhang, Guoping Wang, Yongtian Wang, Qinping Zhao. **Artificial intelligence for virtual reality: a review**. *Science China Information Sciences*, 69(1), 1-64. full-text [pdf](assets/papers/artificial-intelligence-for-virtual-reality-review.pdf)
-
-## 2025
-
-<hr style="width:90%">
-
-Xuehuai Shi, Yuhan Duan, Ziteng Wang\*, **Jian Wu\***, Zhiwen Shao, Jieming Yin, Lili Wang. 2025. **MOA: Efficient Scene-aware Multi-object Arrangement in VR**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*. full-text [pdf](assets/papers/2025-moa-efficient-scene-aware-multi-object-arrangement.pdf)
-
-<hr style="width:90%">
-
-Qixiang Ma, Runze Fan, Lizhi Zhao, **Jian Wu**, Sio-Kei Im, Lili Wang\*. 2025. **SGSG: Stroke-Guided Scene Graph Generation**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*. Also presented at *IEEE ISMAR*. full-text [pdf](assets/papers/2025-sgsg-stroke-guided-scene-graph-generation.pdf)
-
-<hr style="width:90%">
-
-Kangyu Wang, **Jian Wu**, Runze Fan, Hongwen Zhang, Sio Kei Im, Lili Wang\*. **HFM-GS: half-face mapping 3DGS avatar based real-time HMD removal**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*. Also presented at *IEEE ISMAR*. full-text [pdf](assets/papers/hfm-gs-half-face-mapping-3dgs-avatar.pdf)
-
-<hr style="width:90%">
-
-Peike Wang, Ming Li, **Jian Wu**, Lili Wang\*, Yong-Jin Liu. **Cybersickness Exploration for Different VR Tasks Under Variable Rendering Conditions**. *International Journal of Human-Computer Interaction (IJHCI)*. full-text [pdf](assets/papers/cybersickness-exploration-vr-tasks.pdf)
-
-<hr style="width:90%">
-
-Sichun Huang, **Jian Wu**, Runze Fan, Sio Kei Im, Lili Wang\*. **HandBrush for Efficient Object Grouping in Virtual Environment with Bare-Hand**. *International Journal of Human-Computer Interaction (IJHCI)*, 41(15), 9797-9821. full-text [pdf](assets/papers/handbrush-efficient-object-grouping.pdf)
-
-<hr style="width:90%">
-
-Jiaye Leng, Zijun Wang, **Jian Wu\***, Lili Wang. **LipText: Lip Tracking Based Text Entry in VR**. *International Conference on Extended Reality (ICXR)*, 162-178. full-text [pdf](assets/papers/liptext-lip-tracking-text-entry-vr.pdf)
-
-<hr style="width:90%">
-
-Xuehuai Shi, Yucheng Li, Jiaheng Li\*, **Jian Wu**, Jieming Yin\*, Xiaobai Chen, Lili Wang. **Audio-visual aware Foveated Rendering**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*. full-text [pdf](assets/papers/audio-visual-aware-foveated-rendering.pdf)
-
-<hr style="width:90%">
-
-Runze Fan, **Jian Wu**, Xuehuai Shi, Lizhi Zhao, Qixiang Ma, Lili Wang\*. 2025. **Fov-GS: Foveated 3D Gaussian Splatting for Dynamic Scenes**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 31(5), 2975-2985. Also presented at *IEEE VR*. VR 2025 Best Paper Honorable Mention. full-text [pdf](assets/papers/2025-fov-gs-foveated-3d-gaussian-splatting.pdf)
-
-<hr style="width:90%">
-
-**Jian Wu**, Weicheng Zhang, Handong Chen, Wei Lin, Xuehuai Shi, Lili Wang\*. 2025. **PwP: Permutating with Probability for Efficient Group Selection in VR**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 31(5), 2384-2394. Also presented at *IEEE VR*. full-text [pdf](assets/papers/2025-pwp-permutating-with-probability.pdf)
-
-## 2024
-
-<hr style="width:90%">
-
-Qixiang Ma, **Jian Wu**\*, Runze Fan, Guodong Sun, Xuehuai Shi. **ViP-Fluid: Visual Perception Driven Method for VR Fluid Rendering**. *2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bellevue, WA, USA, 2024, pp. 359-367. full-text [pdf](assets/papers/Vip-Fluid.pdf)
-
-<hr style="width:90%">
-
-Jiaqi Zhou, **Jian Wu**, Sio Kei Im, Runze Fan, Lili Wang\*. **Manipulable Cone Based Bare Hand Object Selection in High Occlusion Virtual Environment**. *International Journal of Human-Computer Studies (IJHCS)*, 196, 103432. full-text [pdf](assets/papers/manipulable-cone-bare-hand-selection.pdf)
-
-<hr style="width:90%">
-
-Lili Wang\*, Xiangyu Li, **Jian Wu**, Dong Zhou, Im Sio Kei, Voicu Popescu. **AVICol: Adaptive Visual Instruction for Remote Collaboration Using Mixed Reality**. *International Journal of Human-Computer Interaction (IJHCI)*, 41(2), 1260-1279. full-text [pdf](assets/papers/avicol-adaptive-visual-instruction.pdf)
-
-<hr style="width:90%">
-
-Aoxin Sun, **Jian Wu**, Runze Fan, Sio Kei Im, Lili Wang\*. **Efficient and Comfortable Haptic Retargeting with Reset Point Optimization**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*. full-text [pdf](assets/papers/efficient-comfortable-haptic-retargeting-reset-point.pdf)
-
-<hr style="width:90%">
-
-Xinda Liu\*, Kun Jiang, **Jian Wu**, Lili Wang, Guohua Geng. **Where Should a Virtual Guide Stand in a VR Museum?** *International Conference on Extended Reality (ICXR)*, 312-328. full-text [pdf](assets/papers/where-should-a-virtual-guide-stand.pdf)
-
-<hr style="width:90%">
-
-Zijun Wang, **Jian Wu**, Runze Fan, Wei Ke, Lili Wang\*. **VPRF: Visual Perceptual Radiance Fields for Foveated Image Synthesis**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 30(11), 7183-7192. Also presented at *IEEE ISMAR*. ISMAR 2024 Best Student Journal Paper. full-text [pdf](assets/papers/vprf-visual-perceptual-radiance-fields.pdf)
-
-<hr style="width:90%">
-
-Xuehuai Shi, Lili Wang\*, Xinda Liu, **Jian Wu**, Zhiwen Shao. **Scene-aware Foveated Neural Radiance Fields**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*. full-text [pdf](assets/papers/scene-aware-foveated-neural-radiance-fields.pdf)
-
-<hr style="width:90%">
-
-**Jian Wu**, Lili Wang\*, Sio Kei Im, Chan Tong Lam. **EEBA: Efficient and ergonomic Big-Arm for distant object manipulation in VR**. *International Journal of Human-Computer Studies (IJHCS)*, 188, 103273. full-text [pdf](assets/papers/eeba-efficient-ergonomic-big-arm.pdf)
-
-<hr style="width:90%">
-
-Ziming Liu, **Jian Wu**, Lili Wang\*, Xiangyu Li, Sio Kei Im. **Proxy Importance Based Haptic Retargeting With Multiple Props in VR**. *IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*. full-text [pdf](assets/papers/proxy-importance-haptic-retargeting-multiple-props.pdf)
-
-<hr style="width:90%">
-
-**Jian Wu**, Ziteng Wang, Lili Wang\*, Yuhan Duan, Jiaheng Li. **FanPad: A Fan Layout Touchpad Keyboard for Text Entry in VR**. *IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)*, 222-232. full-text [pdf](assets/papers/fanpad-fan-layout-touchpad-keyboard.pdf)
-
-<hr style="width:90%">
-
-Xiaolong Liu, Lili Wang\*, Yi Liu, **Jian Wu**. **Automatic portals layout for VR navigation**. *Virtual Reality*, 28(1), 9. full-text [pdf](assets/papers/automatic-portals-layout-vr-navigation.pdf)
-
-<hr style="width:90%">
-
-**Jian Wu**, Lili Wang\*. **Panoramic Ray Tracing for Interactive Mixed Reality Rendering Based on 360 RGBD Video**. *IEEE Computer Graphics and Applications (IEEE CG&A)*. full-text [pdf](assets/papers/panoramic-ray-tracing-interactive-mr.pdf)
-
-## Before 2024
-
-<hr style="width:90%">
-
-**Jian Wu**, Lili Wang\*, Wei Ke. **Interactive Panoramic Ray Tracing for Mixed 360 RGBD Videos**. *IEEE VRW*, 777-778. full-text [pdf](assets/papers/interactive-panoramic-ray-tracing-mixed-rgbd.pdf)
-
-<hr style="width:90%">
-
-Xuehuai Shi, Lili Wang\*, **Jian Wu**, Wei Ke, Chan-Tong Lam. **Locomotion-aware Foveated Rendering**. *IEEE VR*, 471-481. full-text [pdf](assets/papers/locomotion-aware-foveated-rendering.pdf)
-
-<hr style="width:90%">
-
-Zixiang Zhao, **Jian Wu**, Lili Wang\*. **AR assistance for efficient dynamic target search**. *Computational Visual Media (CVM)*, 9(1), 177-194. full-text [pdf](assets/papers/ar-assistance-efficient-dynamic-target-search.pdf)
-
-<hr style="width:90%">
-
-Xuehuai Shi, Lili Wang\*, **Jian Wu**, Aimin Hao. 2022. **Foveated Stochastic Lightcuts**. *IEEE Transactions on Visualization and Computer Graphics*, 28(11), 3684-3693. full-text [pdf](assets/papers/2022-foveated-stochastic-lightcuts.pdf)
-
-<hr style="width:90%">
-
-Lili Wang\*, Yi Liu, Xiaolong Liu, **Jian Wu**. 2021. **Automatic Virtual Portals Placement for Efficient VR Navigation**. *IEEE VR 2021 Poster*, 628-629. full-text [pdf](assets/papers/2021-automatic-virtual-portals-placement.pdf)
-
-<hr style="width:90%">
-
-**Jian Wu**, Lili Wang\*, Hui Zhang, Voicu Popescu. 2022. **Quantifiable Fine-Grain Occlusion Removal Assistance for Efficient VR Exploration**. *IEEE Transactions on Visualization and Computer Graphics*, 28(9), 3154-3167. full-text [pdf](assets/papers/2022-quantifiable-fine-grain-occlusion-removal.pdf)
-
-<hr style="width:90%">
-
-Lili Wang\*, **Jian Wu**, Xuefeng Yang, Voicu Popescu. 2019. **VR Exploration Assistance through Automatic Occlusion Removal**. *IEEE Transactions on Visualization and Computer Graphics*, 25(5), 2083-2092. Also presented at *IEEE VR 2019*. full-text [pdf](assets/papers/2019-vr-exploration-assistance-occlusion-removal.pdf)
-
-<hr style="width:90%">
-
-Lili Wang\*, Han Zhao, Zesheng Wang, **Jian Wu**, Bingqiang Li, Zhiming He, Voicu Popescu. 2019. **Occlusion management in VR: A comparative study**. *IEEE VR 2019*, 708-716. full-text [pdf](assets/papers/2019-occlusion-management-comparative-study.pdf)
-
-
-
-<!--::: {.pub-card}
-![](assets/thumbs/2026-user-perception-label-layout.jpg){.pub-thumb}
-<div class="pub-title">User perception based label layout for efficient target localization in virtual environment</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Shuai Luan, Dong Zhou, Wei Ke, Lili Wang<br>
-International Journal of Human-Computer Studies, Volume 211, April 2026, 103801</div>
-<div class="pub-links">
-<a href="assets/papers/2026-user-perception-label-layout.pdf" target="_blank">PDF</a>
-</div>
-:::
-
-
----
-title: "Publications"
----
-
-# Publications
-
-`*` indicates corresponding author.
+## 2026 {.pub-year}
 
 ::: {.pub-card}
-![](assets/thumbs/user-perception-label-layout.jpg){.pub-thumb}
+![](assets/thumbs/2026-user-perception-label-layout.jpg){.pub-thumb}
 
-::: 
-<div class="pub-title">User perception based label layout for efficient target localization in virtual environment</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Shuai Luan, Dong Zhou, Wei Ke, Lili Wang<br>International Journal of Human-Computer Studies, Volume 211, April 2026, 103801</div>
-<div class="pub-links">
-<a href="assets/papers/user-perception-label-layout.pdf" target="_blank">PDF</a>
-<a href="assets/videos/user-perception-label-layout.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### User perception based label layout for efficient target localization in virtual environment {.pub-title}
+
+**Jian Wu**, Shuai Luan, Dong Zhou, Wei Ke, Lili Wang\*.
+
+*International Journal of Human-Computer Studies*, Volume 211, April 2026, 103801.
+
+[PDF](assets/papers/2026-user-perception-label-layout.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/2026-user-perception-label-layout.mp4){.pub-btn target="_blank"} -->
 :::
 :::
 
 ::: {.pub-card}
 ![](assets/thumbs/align-box.jpg){.pub-thumb}
 
-::: 
-<div class="pub-title">Align-Box: Enable Fast Bare-Hand Multi-Object Alignment in VR</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Ziteng Wang, Runze Fan, Qixiang Ma, Lizhi Zhao, Xuehuai Shi, Lili Wang*<br>International Journal of Human-Computer Interaction</div>
-<div class="pub-links">
-<a href="assets/papers/align-box.pdf" target="_blank">PDF</a>
-<a href="assets/videos/align-box.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Align-Box: Enable Fast Bare-Hand Multi-Object Alignment in VR {.pub-title}
+
+**Jian Wu**, Ziteng Wang, Runze Fan, Qixiang Ma, Lizhi Zhao, Xuehuai Shi, Lili Wang\*.
+
+*International Journal of Human-Computer Interaction*.
+
+[PDF](assets/papers/align-box.pdf){.pub-btn target="_blank"}
+[Video](https://youtu.be/yIW9CXhPeTw){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/automatic-formation-generation.jpg){.pub-thumb}
+![](assets/thumbs/automatic-formation-generation-scene-awareness.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Automatic Formation Generation based on Scene Awareness for Guided Group Navigation in VR</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Lili Wang*, Zhikai Wen, Yanzhou Chen, Qianwen Wang, Bin Hu, Xuehuai Shi, Xiaolong Liu<br>IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)</div>
-<div class="pub-links">
-<a href="assets/papers/automatic-formation-generation.pdf" target="_blank">PDF</a>
-<a href="assets/videos/automatic-formation-generation.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Automatic Formation Generation based on Scene Awareness for Guided Group Navigation in VR {.pub-title}
+
+**Jian Wu**, Lili Wang\*, Zhikai Wen, Yanzhou Chen, Qianwen Wang, Bin Hu, Xuehuai Shi, Xiaolong Liu.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*.
+
+[PDF](assets/papers/automatic-formation-generation-scene-awareness.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=ReVDdWYxNqQ){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/motion-hierarchical-gaussian.jpg){.pub-thumb}
+![](assets/thumbs/from-structure-to-semantics-hypergraph-based-ar-assembly-guidance.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Motion Hierarchical Gaussian for Dynamic Control in VR</div>
-<div class="pub-meta">Runze Fan, <strong>Jian Wu</strong>, Qixiang Ma, Zhikai Wen, Lili Wang*<br>IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG); Also presented at IEEE VR</div>
-<div class="pub-links">
-<a href="assets/papers/motion-hierarchical-gaussian.pdf" target="_blank">PDF</a>
-<a href="assets/videos/motion-hierarchical-gaussian.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### From Structure to Semantics: Hypergraph-Based AR Assembly Guidance with LLM-Mediated Narration {.pub-title}
+
+Xinda Liu, Bowei Zhang, Jiaju Xu, Jian Wu\*, Guohua Geng, Lili Wang.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*  
+*Also presented at IEEE Conference Virtual Reality and 3D User Interfaces (IEEE VR)*
+
+[PDF](assets/papers/from-structure-to-semantics-hypergraph-based-ar-assembly-guidance.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=apRfZh9oP3Y){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/ai-for-vr-review.jpg){.pub-thumb}
+![](assets/thumbs/walking-in-the-wild-safe-and-natural-redirected-walking.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Artificial intelligence for virtual reality: a review</div>
-<div class="pub-meta">Lili Wang, Weiwei Xu, Yebin Liu, Miao Wang, Beibei Wang, Xubo Yang, Lan Xu, Zhangyao Tan, Runze Fan, Zijun Wang, Chi Wang, Hongwen Zhang, Yijian Wen, Haozhong Yang, <strong>Jian Wu*</strong>, Jiahui Fan, Hui Wang, Qixuan Zhang, Guoping Wang, Yongtian Wang, Qinping Zhao<br>Science China Information Sciences, 69(1), 1-64</div>
-<div class="pub-links">
-<a href="assets/papers/ai-for-vr-review.pdf" target="_blank">PDF</a>
-<a href="assets/videos/ai-for-vr-review.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Walking in the Wild: Safe and Natural Redirected Walking in Open Physical Spaces {.pub-title}
+
+Xinda Liu, Qinyu Zhang, Guoqiang Yang, Yunchen Li, Jian Wu\*, Guohua Geng, Lili Wang.
+
+*IEEE Conference Virtual Reality and 3D User Interfaces (IEEE VR)*
+
+[PDF](assets/papers/walking-in-the-wild-safe-and-natural-redirected-walking.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=GlWVQ0lHTF4){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/moa-scene-aware-arrangement.jpg){.pub-thumb}
+![](assets/thumbs/motion-hierarchical-gaussian.png){.pub-thumb}
 
-::: 
-<div class="pub-title">MOA: Efficient Scene-aware Multi-object Arrangement in VR</div>
-<div class="pub-meta">Xuehuai Shi, Yuhan Duan, Ziteng Wang*, <strong>Jian Wu*</strong>, Zhiwen Shao, Jieming Yin, Lili Wang<br>IEEE TVCG, 2025</div>
-<div class="pub-links">
-<a href="assets/papers/moa-scene-aware-arrangement.pdf" target="_blank">PDF</a>
-<a href="assets/videos/moa-scene-aware-arrangement.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Motion Hierarchical Gaussian for Dynamic Control in VR {.pub-title}
+
+Runze Fan, **Jian Wu**, Qixiang Ma, Zhikai Wen, Lili Wang\*.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*  
+*Also presented at IEEE Conference Virtual Reality and 3D User Interfaces (IEEE VR)*
+
+[PDF](assets/papers/motion-hierarchical-gaussian.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=spl_KeKvSqU){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/sgsg.jpg){.pub-thumb}
+![](assets/thumbs/artificial-intelligence-for-virtual-reality-review.png){.pub-thumb}
 
-::: 
-<div class="pub-title">SGSG: Stroke-Guided Scene Graph Generation</div>
-<div class="pub-meta">Qixiang Ma, Runze Fan, Lizhi Zhao, <strong>Jian Wu</strong>, Sio-Kei Im, Lili Wang*<br>IEEE TVCG, 2025; Also presented at IEEE ISMAR</div>
-<div class="pub-links">
-<a href="assets/papers/sgsg.pdf" target="_blank">PDF</a>
-<a href="assets/videos/sgsg.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Artificial intelligence for virtual reality: a review {.pub-title}
+
+Lili Wang, Weiwei Xu, Yebin Liu, Miao Wang, Beibei Wang, Xubo Yang, Lan Xu, Zhangyao Tan, Runze Fan, Zijun Wang, Chi Wang, Hongwen Zhang, Yijian Wen, Haozhong Yang, **Jian Wu\***, Jiahui Fan, Hui Wang, Qixuan Zhang, Guoping Wang, Yongtian Wang, Qinping Zhao.
+
+*Science China Information Sciences*, 69(1), 1-64.
+
+[PDF](assets/papers/artificial-intelligence-for-virtual-reality-review.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/artificial-intelligence-for-virtual-reality-review.mp4){.pub-btn target="_blank"} -->
+:::
+:::
+
+## 2025 {.pub-year}
+
+::: {.pub-card}
+![](assets/thumbs/2025-moa-efficient-scene-aware-multi-object-arrangement.png){.pub-thumb}
+
+::: {.pub-content}
+### MOA: Efficient Scene-aware Multi-object Arrangement in VR {.pub-title}
+
+Xuehuai Shi, Yuhan Duan, Ziteng Wang\*, **Jian Wu\***, Zhiwen Shao, Jieming Yin, Lili Wang.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 2025.
+
+[PDF](assets/papers/2025-moa-efficient-scene-aware-multi-object-arrangement.pdf){.pub-btn target="_blank"}
+[Video](https://xuehuai.net/publications/videos/2025-MOA.mp4){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/hfm-gs.jpg){.pub-thumb}
+![](assets/thumbs/2025-sgsg-stroke-guided-scene-graph-generation.png){.pub-thumb}
 
-::: 
-<div class="pub-title">HFM-GS: half-face mapping 3DGS avatar based real-time HMD removal</div>
-<div class="pub-meta">Kangyu Wang, <strong>Jian Wu</strong>, Runze Fan, Hongwen Zhang, Sio Kei Im, Lili Wang*<br>IEEE TVCG; Also presented at IEEE ISMAR</div>
-<div class="pub-links">
-<a href="assets/papers/hfm-gs.pdf" target="_blank">PDF</a>
-<a href="assets/videos/hfm-gs.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### SGSG: Stroke-Guided Scene Graph Generation {.pub-title}
+
+Qixiang Ma, Runze Fan, Lizhi Zhao, **Jian Wu**, Sio-Kei Im, Lili Wang\*.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 2025.  
+*Also presented at IEEE ISMAR.*
+
+[PDF](assets/papers/2025-sgsg-stroke-guided-scene-graph-generation.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=FwlPHpO5yAk){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/cybersickness-vr-tasks.jpg){.pub-thumb}
+![](assets/thumbs/hfm-gs-half-face-mapping-3dgs-avatar.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Cybersickness Exploration for Different VR Tasks Under Variable Rendering Conditions</div>
-<div class="pub-meta">Peike Wang, Ming Li, <strong>Jian Wu</strong>, Lili Wang*, Yong-Jin Liu<br>International Journal of Human–Computer Interaction (IJHCI)</div>
-<div class="pub-links">
-<a href="assets/papers/cybersickness-vr-tasks.pdf" target="_blank">PDF</a>
-<a href="assets/videos/cybersickness-vr-tasks.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### HFM-GS: half-face mapping 3DGS avatar based real-time HMD removal {.pub-title}
+
+Kangyu Wang, **Jian Wu**, Runze Fan, Hongwen Zhang, Sio Kei Im, Lili Wang\*.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*.  
+*Also presented at IEEE ISMAR.*
+
+[PDF](assets/papers/hfm-gs-half-face-mapping-3dgs-avatar.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=jweiTyQgB0g){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/handbrush.jpg){.pub-thumb}
+![](assets/thumbs/cybersickness-exploration-vr-tasks.png){.pub-thumb}
 
-::: 
-<div class="pub-title">HandBrush for Efficient Object Grouping in Virtual Environment with Bare-Hand</div>
-<div class="pub-meta">Sichun Huang, <strong>Jian Wu</strong>, Runze Fan, Sio Kei Im, Lili Wang*<br>IJHCI, 41(15), 9797-9821</div>
-<div class="pub-links">
-<a href="assets/papers/handbrush.pdf" target="_blank">PDF</a>
-<a href="assets/videos/handbrush.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Cybersickness Exploration for Different VR Tasks Under Variable Rendering Conditions {.pub-title}
+
+Peike Wang, Ming Li, **Jian Wu**, Lili Wang\*, Yong-Jin Liu.
+
+*International Journal of Human-Computer Interaction (IJHCI)*.
+
+[PDF](assets/papers/cybersickness-exploration-vr-tasks.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=TWW5GRAaCro){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/liptext.jpg){.pub-thumb}
+![](assets/thumbs/handbrush-efficient-object-grouping.png){.pub-thumb}
 
-::: 
-<div class="pub-title">LipText: Lip Tracking Based Text Entry in VR</div>
-<div class="pub-meta">Jiaye Leng, Zijun Wang, <strong>Jian Wu*</strong>, Lili Wang<br>ICXR, 162-178</div>
-<div class="pub-links">
-<a href="assets/papers/liptext.pdf" target="_blank">PDF</a>
-<a href="assets/videos/liptext.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### HandBrush for Efficient Object Grouping in Virtual Environment with Bare-Hand {.pub-title}
+
+Sichun Huang, **Jian Wu**, Runze Fan, Sio Kei Im, Lili Wang\*.
+
+*International Journal of Human-Computer Interaction (IJHCI)*, 41(15), 9797-9821.
+
+[PDF](assets/papers/handbrush-efficient-object-grouping.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=A3HAprafbLs){.pub-btn target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+![](assets/thumbs/liptext-lip-tracking-text-entry-vr.png){.pub-thumb}
+
+::: {.pub-content}
+### LipText: Lip Tracking Based Text Entry in VR {.pub-title}
+
+Jiaye Leng, Zijun Wang, **Jian Wu\***, Lili Wang.
+
+*International Conference on Extended Reality (ICXR)*, 162-178.
+
+[PDF](assets/papers/liptext-lip-tracking-text-entry-vr.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/liptext-lip-tracking-text-entry-vr.mp4){.pub-btn target="_blank"} -->
 :::
 :::
 
 ::: {.pub-card}
 ![](assets/thumbs/audio-visual-aware-foveated-rendering.jpg){.pub-thumb}
 
-::: 
-<div class="pub-title">Audio-visual aware Foveated Rendering</div>
-<div class="pub-meta">Xuehuai Shi, Yucheng Li, Jiaheng Li*, <strong>Jian Wu</strong>, Jieming Yin*, Xiaobai Chen, Lili Wang<br>IEEE TVCG</div>
-<div class="pub-links">
-<a href="assets/papers/audio-visual-aware-foveated-rendering.pdf" target="_blank">PDF</a>
-<a href="assets/videos/audio-visual-aware-foveated-rendering.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Audio-visual aware Foveated Rendering {.pub-title}
+
+Xuehuai Shi, Yucheng Li, Jiaheng Li\*, **Jian Wu**, Jieming Yin\*, Xiaobai Chen, Lili Wang.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*.
+
+[PDF](assets/papers/audio-visual-aware-foveated-rendering.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=1vpZYQDbQTk){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/fov-gs.jpg){.pub-thumb}
+![](assets/thumbs/2025-fov-gs-foveated-3d-gaussian-splatting.jpg){.pub-thumb}
 
-::: 
-<div class="pub-title">Fov-GS: Foveated 3D Gaussian Splatting for Dynamic Scenes</div>
-<div class="pub-meta">Runze Fan, <strong>Jian Wu</strong>, Xuehuai Shi, Lizhi Zhao, Qixiang Ma, Lili Wang*<br>IEEE TVCG, 31(5), 2975-2985; Also presented at IEEE VR; VR 2025 Best Paper Honorable Mention</div>
-<div class="pub-links">
-<a href="assets/papers/fov-gs.pdf" target="_blank">PDF</a>
-<a href="assets/videos/fov-gs.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Fov-GS: Foveated 3D Gaussian Splatting for Dynamic Scenes {.pub-title}
+
+Runze Fan, **Jian Wu**, Xuehuai Shi, Lizhi Zhao, Qixiang Ma, Lili Wang\*.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 31(5), 2975-2985.  
+*Also presented at IEEE VR. VR 2025 Best Paper Honorable Mention.*
+
+[PDF](assets/papers/2025-fov-gs-foveated-3d-gaussian-splatting.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=IAR6PekgMBc){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/pwp.jpg){.pub-thumb}
+![](assets/thumbs/2025-pwp-permutating-with-probability.png){.pub-thumb}
 
-::: 
-<div class="pub-title">PwP: Permutating with Probability for Efficient Group Selection in VR</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Weicheng Zhang, Handong Chen, Wei Lin, Xuehuai Shi, Lili Wang*<br>IEEE TVCG, 31(5), 2384-2394; Also presented at IEEE VR</div>
-<div class="pub-links">
-<a href="assets/papers/pwp.pdf" target="_blank">PDF</a>
-<a href="assets/videos/pwp.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### PwP: Permutating with Probability for Efficient Group Selection in VR {.pub-title}
+
+**Jian Wu**, Weicheng Zhang, Handong Chen, Wei Lin, Xuehuai Shi, Lili Wang\*.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 31(5), 2384-2394.  
+*Also presented at IEEE VR.*
+
+[PDF](assets/papers/2025-pwp-permutating-with-probability.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=3zL_ZFrutJM){.pub-btn target="_blank"}
+:::
+:::
+
+## 2024 {.pub-year}
+
+::: {.pub-card}
+![](assets/thumbs/vip-fluid.png){.pub-thumb}
+
+::: {.pub-content}
+### ViP-Fluid: Visual Perception Driven Method for VR Fluid Rendering {.pub-title}
+
+Qixiang Ma, **Jian Wu**\*, Runze Fan, Guodong Sun, Xuehuai Shi.
+
+*2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bellevue, WA, USA, 2024, pp. 359-367.
+
+[PDF](assets/papers/Vip-Fluid.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/Vip-Fluid.mp4){.pub-btn target="_blank"} -->
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/manipulable-cone-selection.jpg){.pub-thumb}
+![](assets/thumbs/manipulable-cone-bare-hand-selection.jpg){.pub-thumb}
 
-::: 
-<div class="pub-title">Manipulable Cone Based Bare Hand Object Selection in High Occlusion Virtual Environment</div>
-<div class="pub-meta">Jiaqi Zhou, <strong>Jian Wu</strong>, Sio Kei Im, Runze Fan, Lili Wang*<br>IJHCS, 196, 103432</div>
-<div class="pub-links">
-<a href="assets/papers/manipulable-cone-selection.pdf" target="_blank">PDF</a>
-<a href="assets/videos/manipulable-cone-selection.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Manipulable Cone Based Bare Hand Object Selection in High Occlusion Virtual Environment {.pub-title}
+
+Jiaqi Zhou, **Jian Wu**, Sio Kei Im, Runze Fan, Lili Wang\*.
+
+*International Journal of Human-Computer Studies (IJHCS)*, 196, 103432.
+
+[PDF](assets/papers/manipulable-cone-bare-hand-selection.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=GXkNQJ_iYIQ){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/avicol.jpg){.pub-thumb}
+![](assets/thumbs/avicol-adaptive-visual-instruction.jpg){.pub-thumb}
 
-::: 
-<div class="pub-title">AVICol: Adaptive Visual Instruction for Remote Collaboration Using Mixed Reality</div>
-<div class="pub-meta">Lili Wang*, Xiangyu Li, <strong>Jian Wu</strong>, Dong Zhou, Im Sio Kei, Voicu Popescu<br>IJHCI, 41(2), 1260-1279</div>
-<div class="pub-links">
-<a href="assets/papers/avicol.pdf" target="_blank">PDF</a>
-<a href="assets/videos/avicol.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### AVICol: Adaptive Visual Instruction for Remote Collaboration Using Mixed Reality {.pub-title}
+
+Lili Wang\*, Xiangyu Li, **Jian Wu**, Dong Zhou, Im Sio Kei, Voicu Popescu.
+
+*International Journal of Human-Computer Interaction (IJHCI)*, 41(2), 1260-1279.
+
+[PDF](assets/papers/avicol-adaptive-visual-instruction.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/avicol-adaptive-visual-instruction.mp4){.pub-btn target="_blank"} -->
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/haptic-retargeting-reset-point.jpg){.pub-thumb}
+![](assets/thumbs/efficient-comfortable-haptic-retargeting-reset-point.jpg){.pub-thumb}
 
-::: 
-<div class="pub-title">Efficient and Comfortable Haptic Retargeting with Reset Point Optimization</div>
-<div class="pub-meta">Aoxin Sun, <strong>Jian Wu</strong>, Runze Fan, Sio Kei Im, Lili Wang*<br>IEEE TVCG</div>
-<div class="pub-links">
-<a href="assets/papers/haptic-retargeting-reset-point.pdf" target="_blank">PDF</a>
-<a href="assets/videos/haptic-retargeting-reset-point.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Efficient and Comfortable Haptic Retargeting with Reset Point Optimization {.pub-title}
+
+Aoxin Sun, **Jian Wu**, Runze Fan, Sio Kei Im, Lili Wang\*.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*.
+
+[PDF](assets/papers/efficient-comfortable-haptic-retargeting-reset-point.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=fL1W8CO2Bw0){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/virtual-guide-vr-museum.jpg){.pub-thumb}
+![](assets/thumbs/where-should-a-virtual-guide-stand.jpg){.pub-thumb}
 
-::: 
-<div class="pub-title">Where Should a Virtual Guide Stand in a VR Museum?</div>
-<div class="pub-meta">Xinda Liu*, Kun Jiang, <strong>Jian Wu</strong>, Lili Wang, Guohua Geng<br>ICXR, 312-328</div>
-<div class="pub-links">
-<a href="assets/papers/virtual-guide-vr-museum.pdf" target="_blank">PDF</a>
-<a href="assets/videos/virtual-guide-vr-museum.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Where Should a Virtual Guide Stand in a VR Museum? {.pub-title}
+
+Xinda Liu\*, Kun Jiang, **Jian Wu**, Lili Wang, Guohua Geng.
+
+*International Conference on Extended Reality (ICXR)*, 312-328.
+
+[PDF](assets/papers/where-should-a-virtual-guide-stand.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/where-should-a-virtual-guide-stand.mp4){.pub-btn target="_blank"} -->
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/vprf.jpg){.pub-thumb}
+![](assets/thumbs/vprf-visual-perceptual-radiance-fields.png){.pub-thumb}
 
-::: 
-<div class="pub-title">VPRF: Visual Perceptual Radiance Fields for Foveated Image Synthesis</div>
-<div class="pub-meta">Zijun Wang, <strong>Jian Wu</strong>, Runze Fan, Wei Ke, Lili Wang*<br>IEEE TVCG, 30(11), 7183-7192; Also presented at IEEE ISMAR; ISMAR 2024 Best Student Journal Paper</div>
-<div class="pub-links">
-<a href="assets/papers/vprf.pdf" target="_blank">PDF</a>
-<a href="assets/videos/vprf.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### VPRF: Visual Perceptual Radiance Fields for Foveated Image Synthesis {.pub-title}
+
+Zijun Wang, **Jian Wu**, Runze Fan, Wei Ke, Lili Wang\*.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 30(11), 7183-7192.  
+*Also presented at IEEE ISMAR. ISMAR 2024 Best Student Journal Paper.*
+
+[PDF](assets/papers/vprf-visual-perceptual-radiance-fields.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=FCmrWd3J6Yo){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/scene-aware-foveated-nerf.jpg){.pub-thumb}
+![](assets/thumbs/scene-aware-foveated-neural-radiance-fields.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Scene-aware Foveated Neural Radiance Fields</div>
-<div class="pub-meta">Xuehuai Shi, Lili Wang*, Xinda Liu, <strong>Jian Wu</strong>, Zhiwen Shao<br>IEEE TVCG</div>
-<div class="pub-links">
-<a href="assets/papers/scene-aware-foveated-nerf.pdf" target="_blank">PDF</a>
-<a href="assets/videos/scene-aware-foveated-nerf.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Scene-aware Foveated Neural Radiance Fields {.pub-title}
+
+Xuehuai Shi, Lili Wang\*, Xinda Liu, **Jian Wu**, Zhiwen Shao.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*.
+
+[PDF](assets/papers/scene-aware-foveated-neural-radiance-fields.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=KkneIYnnyaM){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/eeba.jpg){.pub-thumb}
+![](assets/thumbs/eeba-efficient-ergonomic-big-arm.png){.pub-thumb}
 
-::: 
-<div class="pub-title">EEBA: Efficient and ergonomic Big-Arm for distant object manipulation in VR</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Lili Wang*, Sio Kei Im, Chan Tong Lam<br>IJHCS, 188, 103273</div>
-<div class="pub-links">
-<a href="assets/papers/eeba.pdf" target="_blank">PDF</a>
-<a href="assets/videos/eeba.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### EEBA: Efficient and ergonomic Big-Arm for distant object manipulation in VR {.pub-title}
+
+**Jian Wu**, Lili Wang\*, Sio Kei Im, Chan Tong Lam.
+
+*International Journal of Human-Computer Studies (IJHCS)*, 188, 103273.
+
+[PDF](assets/papers/eeba-efficient-ergonomic-big-arm.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=nAHYZ_iyfu0){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/proxy-importance-haptic-retargeting.jpg){.pub-thumb}
+![](assets/thumbs/proxy-importance-haptic-retargeting-multiple-props.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Proxy Importance Based Haptic Retargeting With Multiple Props in VR</div>
-<div class="pub-meta">Ziming Liu, <strong>Jian Wu</strong>, Lili Wang*, Xiangyu Li, Sio Kei Im<br>IEEE TVCG</div>
-<div class="pub-links">
-<a href="assets/papers/proxy-importance-haptic-retargeting.pdf" target="_blank">PDF</a>
-<a href="assets/videos/proxy-importance-haptic-retargeting.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Proxy Importance Based Haptic Retargeting With Multiple Props in VR {.pub-title}
+
+Ziming Liu, **Jian Wu**, Lili Wang\*, Xiangyu Li, Sio Kei Im.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*.
+
+[PDF](assets/papers/proxy-importance-haptic-retargeting-multiple-props.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=w_D86z_oCKc){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/fanpad.jpg){.pub-thumb}
+![](assets/thumbs/fanpad-fan-layout-touchpad-keyboard.png){.pub-thumb}
 
-::: 
-<div class="pub-title">FanPad: A Fan Layout Touchpad Keyboard for Text Entry in VR</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Ziteng Wang, Lili Wang*, Yuhan Duan, Jiaheng Li<br>IEEE VR, 222-232</div>
-<div class="pub-links">
-<a href="assets/papers/fanpad.pdf" target="_blank">PDF</a>
-<a href="assets/videos/fanpad.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### FanPad: A Fan Layout Touchpad Keyboard for Text Entry in VR {.pub-title}
+
+**Jian Wu**, Ziteng Wang, Lili Wang\*, Yuhan Duan, Jiaheng Li.
+
+*IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)*, 222-232.
+
+[PDF](assets/papers/fanpad-fan-layout-touchpad-keyboard.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=sPNiz5diP_0){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/automatic-portals-layout.jpg){.pub-thumb}
+![](assets/thumbs/automatic-portals-layout-vr-navigation.jpg){.pub-thumb}
 
-::: 
-<div class="pub-title">Automatic portals layout for VR navigation</div>
-<div class="pub-meta">Xiaolong Liu, Lili Wang*, Yi Liu, <strong>Jian Wu</strong><br>Virtual Reality, 28(1), 9</div>
-<div class="pub-links">
-<a href="assets/papers/automatic-portals-layout.pdf" target="_blank">PDF</a>
-<a href="assets/videos/automatic-portals-layout.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Automatic portals layout for VR navigation {.pub-title}
+
+Xiaolong Liu, Lili Wang\*, Yi Liu, **Jian Wu**.
+
+*Virtual Reality*, 28(1), 9.
+
+[PDF](assets/papers/automatic-portals-layout-vr-navigation.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=KA40RAXrhAE){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/panoramic-ray-tracing-rgbd.jpg){.pub-thumb}
+![](assets/thumbs/panoramic-ray-tracing-interactive-mr.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Panoramic Ray Tracing for Interactive Mixed Reality Rendering Based on 360° RGBD Video</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Lili Wang*<br>IEEE Computer Graphics and Applications (IEEE CG&A)</div>
-<div class="pub-links">
-<a href="assets/papers/panoramic-ray-tracing-rgbd.pdf" target="_blank">PDF</a>
-<a href="assets/videos/panoramic-ray-tracing-rgbd.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Panoramic Ray Tracing for Interactive Mixed Reality Rendering Based on 360 RGBD Video {.pub-title}
+
+**Jian Wu**, Lili Wang\*.
+
+*IEEE Computer Graphics and Applications (IEEE CG&A)*.
+
+[PDF](assets/papers/panoramic-ray-tracing-interactive-mr.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=FXpiFuKbviY){.pub-btn target="_blank"}
+:::
+:::
+
+## Before 2024 {.pub-year}
+
+::: {.pub-card}
+![](assets/thumbs/interactive-panoramic-ray-tracing-mixed-rgbd.png){.pub-thumb}
+
+::: {.pub-content}
+### Interactive Panoramic Ray Tracing for Mixed 360 RGBD Videos {.pub-title}
+
+**Jian Wu**, Lili Wang\*, Wei Ke.
+
+*IEEE VRW*, 777-778.
+
+[PDF](assets/papers/interactive-panoramic-ray-tracing-mixed-rgbd.pdf){.pub-btn target="_blank"}
+[Video](https://youtu.be/PB6CJq_VAXA){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/interactive-panoramic-ray-tracing.jpg){.pub-thumb}
+![](assets/thumbs/locomotion-aware-foveated-rendering.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Interactive Panoramic Ray Tracing for Mixed 360° RGBD Videos</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Lili Wang*, Wei Ke<br>IEEE VRW, 777-778</div>
-<div class="pub-links">
-<a href="assets/papers/interactive-panoramic-ray-tracing.pdf" target="_blank">PDF</a>
-<a href="assets/videos/interactive-panoramic-ray-tracing.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Locomotion-aware Foveated Rendering {.pub-title}
+
+Xuehuai Shi, Lili Wang\*, **Jian Wu**, Wei Ke, Chan-Tong Lam.
+
+*IEEE VR*, 471-481.
+
+[PDF](assets/papers/locomotion-aware-foveated-rendering.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=GIQFfQ5wN4E){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/locomotion-aware-foveated-rendering.jpg){.pub-thumb}
+![](assets/thumbs/ar-assistance-efficient-dynamic-target-search.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Locomotion-aware Foveated Rendering</div>
-<div class="pub-meta">Xuehuai Shi, Lili Wang*, <strong>Jian Wu</strong>, Wei Ke, Chan-Tong Lam<br>IEEE VR, 471-481</div>
-<div class="pub-links">
-<a href="assets/papers/locomotion-aware-foveated-rendering.pdf" target="_blank">PDF</a>
-<a href="assets/videos/locomotion-aware-foveated-rendering.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### AR assistance for efficient dynamic target search {.pub-title}
+
+Zixiang Zhao, **Jian Wu**, Lili Wang\*.
+
+*Computational Visual Media (CVM)*, 9(1), 177-194.
+
+[PDF](assets/papers/ar-assistance-efficient-dynamic-target-search.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=14aiBVsO3B8){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/ar-assistance-dynamic-target-search.jpg){.pub-thumb}
+![](assets/thumbs/2022-foveated-stochastic-lightcuts.png){.pub-thumb}
 
-::: 
-<div class="pub-title">AR assistance for efficient dynamic target search</div>
-<div class="pub-meta">Zixiang Zhao, <strong>Jian Wu</strong>, Lili Wang*<br>Computational Visual Media (CVM), 9(1), 177-194</div>
-<div class="pub-links">
-<a href="assets/papers/ar-assistance-dynamic-target-search.pdf" target="_blank">PDF</a>
-<a href="assets/videos/ar-assistance-dynamic-target-search.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Foveated Stochastic Lightcuts {.pub-title}
+
+Xuehuai Shi, Lili Wang\*, **Jian Wu**, Aimin Hao. 2022.
+
+*IEEE Transactions on Visualization and Computer Graphics*, 28(11), 3684-3693.
+
+[PDF](assets/papers/2022-foveated-stochastic-lightcuts.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=N6Rvfjo_oU4){.pub-btn target="_blank"}
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/foveated-stochastic-lightcuts.jpg){.pub-thumb}
+![](assets/thumbs/2021-automatic-virtual-portals-placement.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Foveated Stochastic Lightcuts</div>
-<div class="pub-meta">Xuehuai Shi, Lili Wang*, <strong>Jian Wu</strong>, Aimin Hao<br>IEEE TVCG, 28(11), 3684-3693, 2022</div>
-<div class="pub-links">
-<a href="assets/papers/foveated-stochastic-lightcuts.pdf" target="_blank">PDF</a>
-<a href="assets/videos/foveated-stochastic-lightcuts.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Automatic Virtual Portals Placement for Efficient VR Navigation {.pub-title}
+
+Lili Wang\*, Yi Liu, Xiaolong Liu, **Jian Wu**. 2021.
+
+*IEEE VR 2021 Poster*, 628-629.
+
+[PDF](assets/papers/2021-automatic-virtual-portals-placement.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/2021-automatic-virtual-portals-placement.mp4){.pub-btn target="_blank"} -->
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/automatic-virtual-portals-placement.jpg){.pub-thumb}
+![](assets/thumbs/2022-quantifiable-fine-grain-occlusion-removal.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Automatic Virtual Portals Placement for Efficient VR Navigation</div>
-<div class="pub-meta">Lili Wang*, Yi Liu, Xiaolong Liu, <strong>Jian Wu</strong><br>IEEE VR 2021 Poster, 628-629</div>
-<div class="pub-links">
-<a href="assets/papers/automatic-virtual-portals-placement.pdf" target="_blank">PDF</a>
-<a href="assets/videos/automatic-virtual-portals-placement.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Quantifiable Fine-Grain Occlusion Removal Assistance for Efficient VR Exploration {.pub-title}
+
+**Jian Wu**, Lili Wang\*, Hui Zhang, Voicu Popescu. 2022.
+
+*IEEE Transactions on Visualization and Computer Graphics*, 28(9), 3154-3167.
+
+[PDF](assets/papers/2022-quantifiable-fine-grain-occlusion-removal.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/2022-quantifiable-fine-grain-occlusion-removal.mp4){.pub-btn target="_blank"} -->
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/quantifiable-occlusion-removal-assistance.jpg){.pub-thumb}
+![](assets/thumbs/2019-vr-exploration-assistance-occlusion-removal.png){.pub-thumb}
 
-::: 
-<div class="pub-title">Quantifiable Fine-Grain Occlusion Removal Assistance for Efficient VR Exploration</div>
-<div class="pub-meta"><strong>Jian Wu</strong>, Lili Wang*, Hui Zhang, Voicu Popescu<br>IEEE TVCG, 28(9), 3154-3167, 2021</div>
-<div class="pub-links">
-<a href="assets/papers/quantifiable-occlusion-removal-assistance.pdf" target="_blank">PDF</a>
-<a href="assets/videos/quantifiable-occlusion-removal-assistance.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### VR Exploration Assistance through Automatic Occlusion Removal {.pub-title}
+
+Lili Wang\*, **Jian Wu**, Xuefeng Yang, Voicu Popescu. 2019.
+
+*IEEE Transactions on Visualization and Computer Graphics*, 25(5), 2083-2092.  
+*Also presented at IEEE VR 2019.*
+
+[PDF](assets/papers/2019-vr-exploration-assistance-occlusion-removal.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/2019-vr-exploration-assistance-occlusion-removal.mp4){.pub-btn target="_blank"} -->
 :::
 :::
 
 ::: {.pub-card}
-![](assets/thumbs/vr-exploration-automatic-occlusion-removal.jpg){.pub-thumb}
+![](assets/thumbs/2019-occlusion-management-comparative-study.png){.pub-thumb}
 
-::: 
-<div class="pub-title">VR Exploration Assistance through Automatic Occlusion Removal</div>
-<div class="pub-meta">Lili Wang*, <strong>Jian Wu</strong>, Xuefeng Yang, Voicu Popescu<br>IEEE TVCG, 25(5), 2083-2092, 2019; Also presented at IEEE VR 2019</div>
-<div class="pub-links">
-<a href="assets/papers/vr-exploration-automatic-occlusion-removal.pdf" target="_blank">PDF</a>
-<a href="assets/videos/vr-exploration-automatic-occlusion-removal.mp4" target="_blank">Video</a>
-</div>
+::: {.pub-content}
+### Occlusion management in VR: A comparative study {.pub-title}
+
+Lili Wang\*, Han Zhao, Zesheng Wang, **Jian Wu**, Bingqiang Li, Zhiming He, Voicu Popescu. 2019.
+
+*IEEE VR 2019*, 708-716.
+
+[PDF](assets/papers/2019-occlusion-management-comparative-study.pdf){.pub-btn target="_blank"}
+<!-- [Video](assets/videos/2019-occlusion-management-comparative-study.mp4){.pub-btn target="_blank"} -->
 :::
 :::
-
-::: {.pub-card}
-![](assets/thumbs/occlusion-management-comparative-study.jpg){.pub-thumb}
-
-::: 
-<div class="pub-title">Occlusion management in VR: A comparative study</div>
-<div class="pub-meta">Lili Wang*, Han Zhao, Zesheng Wang, <strong>Jian Wu</strong>, Bingqiang Li, Zhiming He, Voicu Popescu<br>IEEE VR 2019, 708-716, 2019</div>
-<div class="pub-links">
-<a href="assets/papers/occlusion-management-comparative-study.pdf" target="_blank">PDF</a>
-<a href="assets/videos/occlusion-management-comparative-study.mp4" target="_blank">Video</a>
-</div>
-:::
-:::
-
--->
-
 

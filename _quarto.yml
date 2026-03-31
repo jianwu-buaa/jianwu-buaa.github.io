@@ -16,6 +16,6 @@ website:
 format:
   html:
     theme: cosmo
-    toc: true
+    toc: false
     smooth-scroll: true
     css: styles.css

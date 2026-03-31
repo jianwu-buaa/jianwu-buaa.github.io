@@ -1,62 +1,87 @@
-.profile-wrap {
-  display: grid;
-  grid-template-columns: 180px 1fr;
-  gap: 1.2rem;
-  align-items: start;
-  margin-bottom: 1.5rem;
+:root {
+  --year-color: #1f4e79;
+  --card-bg: #efefef;
+  --text-main: #111111;
+  --text-sub: #2f2f2f;
 }
 
-.profile-photo {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 14px;
-  border: 1px solid #ddd;
+.pub-section {
+  margin: 1.8rem 0 2.8rem;
+}
+
+.pub-year {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #1f4e79;
+  margin: 0.4rem 0 0.8rem;
 }
 
 .pub-card {
   display: grid;
-  grid-template-columns: 220px 1fr;
+  grid-template-columns: 180px 1fr;
   gap: 1rem;
-  margin: 1.2rem 0;
-  padding: 0.9rem;
-  border: 1px solid #e5e7eb;
-  border-radius: 12px;
-  background: #fff;
+  align-items: center;
+  background: #efefef;
+  border-radius: 14px;
+  padding: 1rem 1.1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
 }
 
 .pub-thumb {
-  width: 100%;
-  aspect-ratio: 16 / 10;
+  width: 170px;
+  height: 105px;
   object-fit: cover;
   border-radius: 10px;
-  border: 1px solid #eee;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.16);
 }
 
-.pub-title {
+.pub-content .pub-title {
+  margin: 0 0 0.35rem;
+  font-size: 1.15rem;
+  line-height: 1.35;
   font-weight: 700;
-  margin-bottom: 0.3rem;
+  color: #1f4e79;
 }
 
-.pub-meta {
+.pub-content p {
+  margin: 0.18rem 0;
+  font-size: 0.98rem;
+  line-height: 1.5;
+  color: #222;
+}
+
+.pub-content .pub-venue,
+.pub-content .pub-note {
+  font-style: italic;
   color: #444;
-  margin-bottom: 0.5rem;
 }
 
-.pub-links a {
-  margin-right: 0.75rem;
+.pub-btn {
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  padding: 0.25rem 0.7rem;
+  border: 1px solid #222;
+  border-radius: 8px;
+  background: #fff;
+  color: #111;
+  font-size: 0.95rem;
+  font-weight: 600;
   text-decoration: none;
 }
 
-.pub-video {
-  margin-top: 0.6rem;
-  width: 100%;
-  max-width: 560px;
-  border-radius: 10px;
+.pub-btn:hover {
+  background: #f7f7f7;
 }
 
-@media (max-width: 768px) {
-  .profile-wrap { grid-template-columns: 1fr; }
-  .profile-photo { width: 140px; height: 140px; }
-  .pub-card { grid-template-columns: 1fr; }
+@media (max-width: 900px) {
+  .pub-card {
+    grid-template-columns: 1fr;
+  }
+  .pub-thumb {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/10;
+  }
 }

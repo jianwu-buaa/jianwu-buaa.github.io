@@ -11,8 +11,138 @@ css: custom.css
 
 `*` indicates corresponding author.
 
+::: {.pub-layout}
 
-## 2026 {.pub-year}
+::: {.pub-year-sidebar}
+<nav class="pub-year-nav" aria-label="Browse publications by year">
+  <strong>Browse by year:</strong>
+  <a href="#year-2026">2026 (15)</a>
+  <a href="#year-2025">2025 (8)</a>
+  <a href="#year-2024">2024 (12)</a>
+  <a href="#year-before-2024">Before 2024 (8)</a>
+</nav>
+:::
+
+::: {.pub-list}
+## 2026 {#year-2026 .pub-year}
+
+::: {.pub-card}
+![](assets/thumbs/snapaxis-axis-based-interaction.webp){.pub-thumb}
+
+::: {.pub-content}
+### [SnapAxis: Axis Based Interaction for Object Manipulation in Mixed Reality](https://liliwang.net/publications/#paper-snapaxis-axis-based-interaction-for-object-manipulation-in-mixed-reality) {.pub-title}
+
+Fengyi Yan, **Jian Wu**, Shuo Yan, Sio Kei Im, Lili Wang\*.
+
+*ACM Symposium on User Interface Software and Technology (UIST)*, 155:1–155:13.
+
+[PDF](https://liliwang.net/publications/PDF/2026/snapaxis-axis-based-interaction-for-object-manipulation-in-mixed-reality.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=TDUKe1vlhF0){.pub-btn target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+![](assets/thumbs/collaborative-disassembly-multiple-users.webp){.pub-thumb}
+
+::: {.pub-content}
+### [Collaborative Disassembly for Multiple Users in Virtual Reality](https://liliwang.net/publications/#paper-collaborative-disassembly-for-multiple-users-in-virtual-reality) {.pub-title}
+
+Ziteng Wang, **Jian Wu**, Sichun Huang, Peike Wang, Peng Zhang, Min Zhang, Lili Wang\*.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*.
+
+[PDF](https://liliwang.net/publications/PDF/2026/collaborative-disassembly-for-multiple-users-in-virtual-reality.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=P2Y8j556Pq4){.pub-btn target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+![](assets/thumbs/direction-aware-3d-haptic-retargeting.webp){.pub-thumb}
+
+::: {.pub-content}
+### [Direction-Aware 3D Haptic Retargeting in VR](https://liliwang.net/publications/#paper-direction-aware-3d-haptic-retargeting-in-vr) {.pub-title}
+
+Zhikai Wen, **Jian Wu**, Runze Fan, Sio Kei Im, Lili Wang\*.
+
+*IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR)*, 658–668.
+
+[PDF](https://liliwang.net/publications/PDF/2026/direction-aware-3d-haptic-retargeting-in-vr.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=IYqXOFfJuV8){.pub-btn target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+![](assets/thumbs/sgmrs-foveated-360-video-streaming.webp){.pub-thumb}
+
+::: {.pub-content}
+### [SGMRS: Spherical Gaussian Guided Multi-Resolution Sampling for Fast Foveated 360-Degree Video Streaming](https://liliwang.net/publications/#paper-sgmrs-spherical-gaussian-guided-multi-resolution-sampling-for-fast-foveated-360-degree-video-streaming) {.pub-title}
+
+**Jian Wu**, Yichuan Liu, Qifei Xu, Binsheng Zhang, Xinda Liu, Xuehuai Shi, Runze Fan, Lili Wang\*.
+
+*IEEE International Symposium on Mixed and Augmented Reality (IEEE ISMAR)*, 23–33.
+
+[PDF](https://liliwang.net/publications/PDF/2026/sgmrs-spherical-gaussian-guided-multi-resolution-sampling-for-fast-foveated-360-degree-video-streaming.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=0wWjQpjQhrQ){.pub-btn target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+![](assets/thumbs/speaking-to-edit-immersive-3d-models.webp){.pub-thumb}
+
+::: {.pub-content}
+### [Speaking to Edit: LLM-Guided Semantic Interactive Part Editing of AI-generated 3D Models in Immersive Virtual Environments](https://liliwang.net/publications/#paper-speaking-to-edit-llm-guided-semantic-interactive-part-editing-of-ai-generated-3d-models-in-immersive-virtual-environments) {.pub-title}
+
+**Jian Wu**, Liya Chen, Zhenming Zhang, Haokun Luo, Lili Wang\*, Kaiyue Li, Wen Wu, Chaoji Chen.
+
+*International Conference on Extended Reality (ICXR)*.
+
+[PDF](https://liliwang.net/publications/PDF/2026/speaking-to-edit-llm-guided-semantic-interactive-part-editing-of-ai-generated-3d-models-in-immersive-virtual-environments.pdf){.pub-btn target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+![](assets/thumbs/spatial-temporal-motion-transfer.webp){.pub-thumb}
+
+::: {.pub-content}
+### [Spatial-Temporal Relation Guided Motion Transfer via Diffusion Model](https://liliwang.net/publications/#paper-spatial-temporal-relation-guided-motion-transfer-via-diffusion-model) {.pub-title}
+
+Yuan Li, **Jian Wu**, Runze Fan, Sio Kei Im, Lili Wang\*.
+
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 32(9), 7879–7891.
+
+[PDF](https://liliwang.net/publications/PDF/2026/spatial-temporal-relation-guided-motion-transfer-via-diffusion-model.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=gKLh1Z56kPQ){.pub-btn target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+![](assets/thumbs/cybersickness-exploration-vr-tasks.png){.pub-thumb}
+
+::: {.pub-content}
+### [Cybersickness Exploration for Different VR Tasks Under Variable Rendering Conditions](https://liliwang.net/publications/#paper-cybersickness-exploration-for-different-vr-tasks-under-variable-rendering-conditions) {.pub-title}
+
+Peike Wang, Ming Li, **Jian Wu**, Lili Wang\*, Yong-Jin Liu.
+
+*International Journal of Human–Computer Interaction (IJHCI)*, 42(10), 7414–7437.
+
+[PDF](assets/papers/cybersickness-exploration-vr-tasks.pdf){.pub-btn target="_blank"}
+[Video](https://www.youtube.com/watch?v=TWW5GRAaCro){.pub-btn target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+![](assets/thumbs/3d-fuel-handling-simulation-platform.webp){.pub-thumb}
+
+::: {.pub-content}
+### [A 3D Simulation Platform for Fuel Handling and Storage Systems](https://liliwang.net/publications/#paper-a-3d-simulation-platform-for-fuel-handling-and-storage-systems) {.pub-title}
+
+Qixiang Ma, Zhiqiang Zhang, Zhikai Wen, Min Zhang, **Jian Wu**, Bo Li, Lili Wang\*, Peng Zhang\*.
+
+*International Conference on Extended Reality (ICXR)*, LNCS 16428, 223–242.
+
+[PDF](https://liliwang.net/publications/PDF/2026/a-3d-simulation-platform-for-fuel-handling-and-storage-systems.pdf){.pub-btn target="_blank"}
+:::
+:::
 
 ::: {.pub-card}
 ![](assets/thumbs/2026-user-perception-label-layout.jpg){.pub-thumb}
@@ -22,7 +152,7 @@ css: custom.css
 
 **Jian Wu**, Shuai Luan, Dong Zhou, Wei Ke, Lili Wang\*.
 
-*International Journal of Human-Computer Studies*, Volume 211, April 2026, 103801.
+*International Journal of Human-Computer Studies (IJHCS)*, 211, 103801.
 
 [PDF](assets/papers/2026-user-perception-label-layout.pdf){.pub-btn target="_blank"}
 <!-- [Video](assets/videos/2026-user-perception-label-layout.mp4){.pub-btn target="_blank"} -->
@@ -37,7 +167,7 @@ css: custom.css
 
 **Jian Wu**, Ziteng Wang, Runze Fan, Qixiang Ma, Lizhi Zhao, Xuehuai Shi, Lili Wang\*.
 
-*International Journal of Human-Computer Interaction*.
+*International Journal of Human–Computer Interaction (IJHCI)*, 42(19), 16278–16300.
 
 [PDF](assets/papers/align-box.pdf){.pub-btn target="_blank"}
 [Video](https://youtu.be/yIW9CXhPeTw){.pub-btn target="_blank"}
@@ -52,7 +182,7 @@ css: custom.css
 
 **Jian Wu**, Lili Wang\*, Zhikai Wen, Yanzhou Chen, Qianwen Wang, Bin Hu, Xuehuai Shi, Xiaolong Liu.
 
-*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*.
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 32(7), 5427–5441.
 
 [PDF](assets/papers/automatic-formation-generation-scene-awareness.pdf){.pub-btn target="_blank"}
 [Video](https://www.youtube.com/watch?v=ReVDdWYxNqQ){.pub-btn target="_blank"}
@@ -67,7 +197,8 @@ css: custom.css
 
 Xinda Liu, Bowei Zhang, Jiaju Xu, Jian Wu\*, Guohua Geng, Lili Wang.
 
-*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*  
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 32(5), 4688–4698.
+
 *Also presented at IEEE Conference Virtual Reality and 3D User Interfaces (IEEE VR)*
 
 [PDF](assets/papers/from-structure-to-semantics-hypergraph-based-ar-assembly-guidance.pdf){.pub-btn target="_blank"}
@@ -83,7 +214,7 @@ Xinda Liu, Bowei Zhang, Jiaju Xu, Jian Wu\*, Guohua Geng, Lili Wang.
 
 Xinda Liu, Qinyu Zhang, Guoqiang Yang, Yunchen Li, Jian Wu\*, Guohua Geng, Lili Wang.
 
-*IEEE Conference Virtual Reality and 3D User Interfaces (IEEE VR)*
+*IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)*, 707–717.
 
 [PDF](assets/papers/walking-in-the-wild-safe-and-natural-redirected-walking.pdf){.pub-btn target="_blank"}
 [Video](https://www.youtube.com/watch?v=GlWVQ0lHTF4){.pub-btn target="_blank"}
@@ -98,7 +229,8 @@ Xinda Liu, Qinyu Zhang, Guoqiang Yang, Yunchen Li, Jian Wu\*, Guohua Geng, Lili 
 
 Runze Fan, **Jian Wu**, Qixiang Ma, Zhikai Wen, Lili Wang\*.
 
-*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*  
+*IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)*, 32(5), 3754–3764.
+
 *Also presented at IEEE Conference Virtual Reality and 3D User Interfaces (IEEE VR)*
 
 [PDF](assets/papers/motion-hierarchical-gaussian.pdf){.pub-btn target="_blank"}
@@ -114,14 +246,14 @@ Runze Fan, **Jian Wu**, Qixiang Ma, Zhikai Wen, Lili Wang\*.
 
 Lili Wang, Weiwei Xu, Yebin Liu, Miao Wang, Beibei Wang, Xubo Yang, Lan Xu, Zhangyao Tan, Runze Fan, Zijun Wang, Chi Wang, Hongwen Zhang, Yijian Wen, Haozhong Yang, **Jian Wu\***, Jiahui Fan, Hui Wang, Qixuan Zhang, Guoping Wang, Yongtian Wang, Qinping Zhao.
 
-*Science China Information Sciences*, 69(1), 1-64.
+*Science China Information Sciences*, 69(1), 111101.
 
 [PDF](assets/papers/artificial-intelligence-for-virtual-reality-review.pdf){.pub-btn target="_blank"}
 <!-- [Video](assets/videos/artificial-intelligence-for-virtual-reality-review.mp4){.pub-btn target="_blank"} -->
 :::
 :::
 
-## 2025 {.pub-year}
+## 2025 {#year-2025 .pub-year}
 
 ::: {.pub-card}
 ![](assets/thumbs/2025-moa-efficient-scene-aware-multi-object-arrangement.png){.pub-thumb}
@@ -167,21 +299,6 @@ Kangyu Wang, **Jian Wu**, Runze Fan, Hongwen Zhang, Sio Kei Im, Lili Wang\*.
 
 [PDF](assets/papers/hfm-gs-half-face-mapping-3dgs-avatar.pdf){.pub-btn target="_blank"}
 [Video](https://www.youtube.com/watch?v=jweiTyQgB0g){.pub-btn target="_blank"}
-:::
-:::
-
-::: {.pub-card}
-![](assets/thumbs/cybersickness-exploration-vr-tasks.png){.pub-thumb}
-
-::: {.pub-content}
-### Cybersickness Exploration for Different VR Tasks Under Variable Rendering Conditions {.pub-title}
-
-Peike Wang, Ming Li, **Jian Wu**, Lili Wang\*, Yong-Jin Liu.
-
-*International Journal of Human-Computer Interaction (IJHCI)*.
-
-[PDF](assets/papers/cybersickness-exploration-vr-tasks.pdf){.pub-btn target="_blank"}
-[Video](https://www.youtube.com/watch?v=TWW5GRAaCro){.pub-btn target="_blank"}
 :::
 :::
 
@@ -262,7 +379,7 @@ Runze Fan, **Jian Wu**, Xuehuai Shi, Lizhi Zhao, Qixiang Ma, Lili Wang\*.
 :::
 :::
 
-## 2024 {.pub-year}
+## 2024 {#year-2024 .pub-year}
 
 ::: {.pub-card}
 ![](assets/thumbs/vip-fluid.png){.pub-thumb}
@@ -445,7 +562,7 @@ Xiaolong Liu, Lili Wang\*, Yi Liu, **Jian Wu**.
 :::
 :::
 
-## Before 2024 {.pub-year}
+## Before 2024 {#year-before-2024 .pub-year}
 
 ::: {.pub-card}
 ![](assets/thumbs/interactive-panoramic-ray-tracing-mixed-rgbd.png){.pub-thumb}
@@ -565,6 +682,9 @@ Lili Wang\*, Han Zhao, Zesheng Wang, **Jian Wu**, Bingqiang Li, Zhiming He, Voic
 
 [PDF](assets/papers/2019-occlusion-management-comparative-study.pdf){.pub-btn target="_blank"}
 <!-- [Video](assets/videos/2019-occlusion-management-comparative-study.mp4){.pub-btn target="_blank"} -->
+:::
+:::
+
 :::
 :::
 

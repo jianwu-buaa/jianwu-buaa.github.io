@@ -28,6 +28,48 @@
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
 }
 
+.pub-layout {
+  display: grid;
+  grid-template-columns: 150px minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.pub-year-sidebar {
+  position: sticky;
+  top: 5.5rem;
+}
+
+.pub-year-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.35rem;
+  padding: 0.9rem;
+  border: 1px solid #d5deea;
+  border-radius: 10px;
+  background: #f7f9fc;
+}
+
+.pub-year-nav strong {
+  margin-bottom: 0.25rem;
+  color: #1f4e79;
+}
+
+.pub-year-nav a {
+  display: block;
+  padding: 0.35rem 0.55rem;
+  border-radius: 6px;
+  color: #1f4e79;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pub-year-nav a:hover {
+  background: #1f4e79;
+  color: #fff;
+}
+
 .pub-thumb {
   width: 170px;
   height: 105px;
@@ -76,6 +118,20 @@
 }
 
 @media (max-width: 900px) {
+  .pub-layout {
+    grid-template-columns: 1fr;
+  }
+  .pub-year-sidebar {
+    position: static;
+  }
+  .pub-year-nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .pub-year-nav strong {
+    margin-bottom: 0;
+  }
   .pub-card {
     grid-template-columns: 1fr;
   }

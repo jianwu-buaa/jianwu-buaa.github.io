@@ -5,6 +5,100 @@
   --text-sub: #2f2f2f;
 }
 
+.quarto-about-trestles {
+  display: flex !important;
+  flex-flow: row nowrap;
+  gap: 2.5rem;
+  align-items: start;
+  width: 96%;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+#quarto-content.page-layout-full > main.content {
+  grid-column: screen-start / screen-end;
+}
+
+.publications-page main.content > header,
+.publications-page main.content > p {
+  width: 96%;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quarto-about-trestles .about-entity {
+  position: sticky;
+  top: 5rem;
+  flex: 0 0 280px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.quarto-about-trestles .about-entity .about-image {
+  width: 190px !important;
+  max-width: 100%;
+  aspect-ratio: 1;
+  height: auto;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.quarto-about-trestles .about-entity #title-block-header {
+  width: 100%;
+  margin: 0.6rem 0 0.8rem;
+  padding: 0;
+  border: 0;
+}
+
+.quarto-about-trestles .about-entity .quarto-title-meta {
+  display: none;
+}
+
+.quarto-about-trestles .about-links {
+  display: flex;
+  flex-flow: column nowrap !important;
+  gap: 0.25rem;
+  width: 100%;
+}
+
+.quarto-about-trestles .about-link {
+  flex: 0 0 auto;
+  width: 100%;
+  justify-content: flex-start;
+  padding: 0.4rem 0.6rem !important;
+  border: 0 !important;
+  border-radius: 6px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.quarto-about-trestles .about-link:hover {
+  background: #f1f5f9;
+}
+
+.quarto-about-trestles .about-contents {
+  min-width: 0;
+  font-size: 1.04rem;
+}
+
+.quarto-about-trestles .about-contents h2 {
+  margin-top: 1.8rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.quarto-about-trestles .pub-card {
+  grid-template-columns: minmax(180px, 220px) minmax(0, 1fr);
+}
+
+.quarto-about-trestles .pub-thumb {
+  width: 220px;
+  height: 135px;
+}
+
 .pub-section {
   margin: 1.8rem 0 2.8rem;
 }
@@ -33,6 +127,13 @@
   grid-template-columns: 150px minmax(0, 1fr);
   gap: 1.5rem;
   align-items: start;
+  width: 96%;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.pub-list {
+  min-width: 0;
 }
 
 .pub-year-sidebar {
@@ -117,7 +218,33 @@
   background: #f7f7f7;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 760px) {
+  .quarto-about-trestles {
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+  .quarto-about-trestles .about-entity {
+    position: static;
+    flex: 0 0 auto !important;
+    width: 100%;
+  }
+  .quarto-about-trestles .about-entity .about-image {
+    width: 150px !important;
+  }
+  .quarto-about-trestles .about-links {
+    flex-flow: row wrap !important;
+    justify-content: center;
+  }
+  .quarto-about-trestles .about-link {
+    justify-content: center;
+  }
+  .quarto-about-trestles .pub-card {
+    grid-template-columns: 1fr;
+  }
+  .quarto-about-trestles .pub-thumb {
+    width: 100%;
+    height: auto;
+  }
   .pub-layout {
     grid-template-columns: 1fr;
   }

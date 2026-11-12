@@ -8,8 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: publications.qmd
+      - href: index.qmd#about
+        text: About
+      - href: index.qmd#news
+        text: News
+      - href: index.qmd#publications
         text: Publications
+      - href: index.qmd#honors-and-awards
+        text: Honors and Awards
+      - href: index.qmd#education
+        text: Education
+      - href: index.qmd#professional-experience
+        text: Experience
       - href: cv.qmd
         text: CV
 
